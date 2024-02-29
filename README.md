@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2salted or slated.tsx on discord
 - 👀 I’m interested in everything that has to do with the computer!
-- 🌱 I’m currently learning react and TypeScript but I know javascript, HTML and CSS
+- 🌱 I’m currently learning react and TypeScript but I know JavaScript, HTML and CSS
 - 📫 How to reach me: salted.tsx on discord
 - ⚡ Fun fact: I love yeat... a lot
 
