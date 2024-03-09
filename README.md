@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @2salted or slated.tsx on discord
-- 👀 I’m interested in everything that has to do with the computer!
-- 🌱 I’m currently learning react and TypeScript but I know JavaScript, HTML and CSS
-- 📫 How to reach me: salted.tsx on discord
-- ⚡ Fun fact: I love yeat... a lot
-
-<!---
-2salted/2salted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hey, I’m salted or sometimes I'm known as 2salted!
+- 👀 I'm an Aviation and Space enthousiast and I love to code!
+- 🌱 I’m currently learning React and TypeScript but I'm proficient in HTML, CSS & JavaScript
+- 📫 If you want to reach me you can add me on discord: salted.tsx or you can join my friend group discord server: https://discord.gg/jxQDTrFCg5
+- ⚡ When I'm coding I love to listen to Yeat
