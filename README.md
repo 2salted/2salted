@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm salted</h1>
 <h3 align="center">Enthusiastic Junior Front-end Developer</h3>
 
-- 🔭 I’m currently working on a [react and react native project](https://github.com/2salted/learning-react-native)
+- 🔭 I’m currently working on a [WhatsApp clone](https://github.com/2salted/WhatsLeft)
 
-- 🌱 I’m currently learning **React & React Native**
+- 🌱 I’m currently learning **React, React Native and Backend as a whole**
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
