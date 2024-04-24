@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **noamgraf123@gmail.com or add salted.tsx on discord**
 
-- ⚡ Fun fact **I love to listen to Yeat while coding**
+- ⚡ Fun fact **I use Neovim exclusively**
 
 <p align="left">
 </p>
