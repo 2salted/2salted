@@ -1,4 +1,4 @@
-<h3 align="center">Junior Front-end Developer</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 - 🔭 I’m currently working on a [WhatsApp clone](https://github.com/2salted/WhatsLeft)
 
