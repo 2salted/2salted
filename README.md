@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I use Neovim exclusively**
 
 <h3 align="left">Languages and Tools I've worked with:</h3>
-<div style="display: flex; gap: 20px;">
+<div align="left">
   <div style="border: 1px solid #ccc; padding: 10px;">
     <p>HTML</p>
     <p>CSS</p>
@@ -23,9 +23,11 @@
     <p>Tailwind CSS</p>
   </div>
   <div style="border: 1px solid #ccc; padding: 10px;">
+    <div>
       <p>NodeJS</p>
       <p>ExpressJS</p>
       <p>Bun</p>
+    </div>
   </div>
 </div>
 
