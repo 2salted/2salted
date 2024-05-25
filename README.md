@@ -1,8 +1,8 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on a [WhatsApp clone](https://github.com/2salted/WhatsLeft)
+- 🔭 I’m currently working on Data Structures and Algorithms in c++
 
-- 🌱 I’m currently learning **React, React Native and Backend**
+- 🌱 I’m currently learning **React, React Native, Typescript, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
