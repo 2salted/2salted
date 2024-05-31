@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
-- 📫 How to reach me **noamgraf123@gmail.com or add salted.tsx on discord**
+- 📫 How to reach me **noamdev@proton.me**
 
 - ⚡ Fun fact **I use Neovim exclusively**
 
