@@ -1,14 +1,12 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on Data Structures and Algorithms in c++
+- 🔭 I’m currently working on Data Structures and Algorithms in C++
 
-- 🌱 I’m currently learning **React, React Native, Typescript, C++**
+- 🌱 I’m currently learning **React, React Native, Typescript, C++ and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
-- 📫 How to reach me **noamdev@proton.me**
-
-- ⚡ Fun fact **I use Neovim exclusively**
+- 📫 Contact me at **noamdev@proton.me**
 
 <h3 align="left">Languages and Tools I've worked with:</h3>
 
