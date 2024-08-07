@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Structures and Algorithms in C++
 
-- 🌱 I’m currently learning **React, React Native, Typescript, C++ and DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms using C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
