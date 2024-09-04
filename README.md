@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/2salted](https://github.com/2salted)
 
-- 📫 Contact me at **noamdev@proton.me**
+- 📫 Contact me at **noamgdev@gmail.com**
 
 <h3 align="left">Languages and Tools I've worked with:</h3>
 
