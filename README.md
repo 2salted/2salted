@@ -1,6 +1,6 @@
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m not currently working on any projects
+- 🔭 I’m currently working on an app that will help the elderly call there loved ones easy & fast!
 
 - 🌱 I’m currently learning **Data Structures and Algorithms using C++**
 
